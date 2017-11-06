@@ -1,0 +1,5 @@
+4.1. The Adaptive and BinaryThreshold filtering keep more similar features of the original image 
+     while Threshold as well as SemiThreshold make more different.
+4.2 We are likely to get much information loss when using it.
+4.3 When the environment changes rapidly, the adaptive threshold will be useful.
+
